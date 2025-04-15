@@ -33,6 +33,8 @@ This will:
 - Automatically create and start a `systemd` service
 
 
+## nstallation Option 2
+
 ### Clone or Download
 ```bash
 cd /opt/libreqos/src/
