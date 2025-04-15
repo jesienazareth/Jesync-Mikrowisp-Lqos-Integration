@@ -104,14 +104,6 @@ sudo systemctl stop jesync_mikrowisp     # Stop manually
 
 ---
 
-## 🧪 Testing With Demo Server
-
-Mikrowisp provides a demo you can test with:
-
-- URL: https://demo.mikrosystem.net/admin
-- User: `admin`
-- Pass: `admin`
-
 API Base URL: `https://demo.mikrosystem.net/api/v1`
 
 Update the script to test with this demo token and endpoint.
