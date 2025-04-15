@@ -33,7 +33,7 @@ This will:
 - Automatically create and start a `systemd` service
 
 
-## nstallation Option 2
+## Installation Option 2 (Manual)
 
 ### Clone or Download
 ```bash
